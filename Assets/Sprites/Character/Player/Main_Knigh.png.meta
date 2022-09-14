@@ -1,0 +1,1272 @@
+fileFormatVersion: 2
+guid: 21c21c18699e41d4c8920faa33548c3c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 751173364487255310
+    second: Main_Knigh_0
+  - first:
+      213: 4439576972692931176
+    second: Main_Knigh_1
+  - first:
+      213: -5236671783874229617
+    second: Main_Knigh_2
+  - first:
+      213: 8340129408950635357
+    second: Main_Knigh_3
+  - first:
+      213: -5287451502075532085
+    second: Main_Knigh_4
+  - first:
+      213: 909077307204877196
+    second: Main_Knigh_5
+  - first:
+      213: -3611497897892010957
+    second: Main_Knigh_6
+  - first:
+      213: -2293482553361849835
+    second: Main_Knigh_7
+  - first:
+      213: -6957074905790648187
+    second: Main_Knigh_8
+  - first:
+      213: 9013261204412742691
+    second: Main_Knigh_9
+  - first:
+      213: 7349789942268410900
+    second: Main_Knigh_10
+  - first:
+      213: 375819060287712484
+    second: Main_Knigh_11
+  - first:
+      213: 3680306603873161642
+    second: Main_Knigh_12
+  - first:
+      213: -8191927428399333289
+    second: Main_Knigh_13
+  - first:
+      213: -599004799874554728
+    second: Main_Knigh_14
+  - first:
+      213: -6410336164267523314
+    second: Main_Knigh_15
+  - first:
+      213: 5628165359868929139
+    second: Main_Knigh_16
+  - first:
+      213: -4124178186011334729
+    second: Main_Knigh_17
+  - first:
+      213: -5470948514531333109
+    second: Main_Knigh_18
+  - first:
+      213: -3461922557360956642
+    second: Main_Knigh_19
+  - first:
+      213: 1423560093694510054
+    second: Main_Knigh_20
+  - first:
+      213: -7059418966921185741
+    second: Main_Knigh_21
+  - first:
+      213: 3026478524747680991
+    second: Main_Knigh_22
+  - first:
+      213: 484921290590413925
+    second: Main_Knigh_23
+  - first:
+      213: 1325200510945985683
+    second: Main_Knigh_24
+  - first:
+      213: 7462451480281535512
+    second: Main_Knigh_25
+  - first:
+      213: 8182321073388972592
+    second: Main_Knigh_26
+  - first:
+      213: 358530981884946555
+    second: Main_Knigh_27
+  - first:
+      213: -9211571247359418142
+    second: Main_Knigh_28
+  - first:
+      213: -3864594955457561022
+    second: Main_Knigh_29
+  - first:
+      213: 1731795698295490942
+    second: Main_Knigh_30
+  - first:
+      213: -5961857857251882031
+    second: Main_Knigh_31
+  - first:
+      213: 3211577436403521984
+    second: Main_Knigh_32
+  - first:
+      213: -1516070555225932408
+    second: Main_Knigh_33
+  - first:
+      213: -5532099746590404300
+    second: Main_Knigh_34
+  - first:
+      213: 5418691219938228737
+    second: Main_Knigh_35
+  - first:
+      213: 998495021887956358
+    second: Main_Knigh_36
+  - first:
+      213: -213292140187864854
+    second: Main_Knigh_37
+  - first:
+      213: 2299092313454939773
+    second: Main_Knigh_38
+  - first:
+      213: -4202683921991046283
+    second: Main_Knigh_39
+  - first:
+      213: -8740450930105748403
+    second: Main_Knigh_40
+  - first:
+      213: 474873021269956411
+    second: Main_Knigh_41
+  - first:
+      213: 3551757516380756632
+    second: Main_Knigh_42
+  - first:
+      213: -1578373699465154721
+    second: Main_Knigh_43
+  - first:
+      213: -3597114489730912870
+    second: Main_Knigh_44
+  - first:
+      213: 7156961788248201407
+    second: Main_Knigh_45
+  - first:
+      213: 8982462970435067312
+    second: Main_Knigh_46
+  - first:
+      213: 4395897191956995506
+    second: Main_Knigh_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Main_Knigh_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e057ff2f134bc6a00800000000000000
+      internalID: 751173364487255310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 384
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862cd5a1cbb8c9d30800000000000000
+      internalID: 4439576972692931176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 384
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a8dd4f1ca9357b0800000000000000
+      internalID: -5236671783874229617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 384
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b8a4172871eb370800000000000000
+      internalID: 8340129408950635357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 384
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccaeab7fd23f96b0800000000000000
+      internalID: -5287451502075532085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_5
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 384
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bb0519ef0bd9c00800000000000000
+      internalID: 909077307204877196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_6
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 384
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334a311ebc161edc0800000000000000
+      internalID: -3611497897892010957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512af44e4c9eb20e0800000000000000
+      internalID: -2293482553361849835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 320
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580709cbb31837f90800000000000000
+      internalID: -6957074905790648187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_9
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 320
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cb4d4af49851d70800000000000000
+      internalID: 9013261204412742691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 320
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cb5aaf203bff560800000000000000
+      internalID: 7349789942268410900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_11
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 320
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec2544b17d273500800000000000000
+      internalID: 375819060287712484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_12
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 320
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1526c6b53131330800000000000000
+      internalID: 3680306603873161642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_13
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 320
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7508a74186d605e80800000000000000
+      internalID: -8191927428399333289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89429b4ee48efa7f0800000000000000
+      internalID: -599004799874554728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_15
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 256
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e038ef5d839e907a0800000000000000
+      internalID: -6410336164267523314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_16
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 256
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374652453924b1e40800000000000000
+      internalID: 5628165359868929139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 256
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b721686ac9f3c6c0800000000000000
+      internalID: -4124178186011334729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_18
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 256
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ca8e6ff494314b0800000000000000
+      internalID: -5470948514531333109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_19
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 256
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b9690b6c7c4ffc0800000000000000
+      internalID: -3461922557360956642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_20
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 256
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e34515ec5081c310800000000000000
+      internalID: 1423560093694510054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336f10c1ad7e70e90800000000000000
+      internalID: -7059418966921185741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_22
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 192
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc0febee26300a20800000000000000
+      internalID: 3026478524747680991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_23
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 192
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5646aa53859cab600800000000000000
+      internalID: 484921290590413925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_24
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 192
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3940a1fe7de046210800000000000000
+      internalID: 1325200510945985683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_25
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 192
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814d4c36514ff8760800000000000000
+      internalID: 7462451480281535512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_26
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 192
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03aea891aa17d8170800000000000000
+      internalID: 8182321073388972592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_27
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 192
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7869384702c9f400800000000000000
+      internalID: 358530981884946555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0a0f961cce92080800000000000000
+      internalID: -9211571247359418142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_29
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 128
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e7f2f0d533e5ac0800000000000000
+      internalID: -3864594955457561022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_30
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 128
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79c37c1303980810800000000000000
+      internalID: 1731795698295490942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_31
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 128
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db4129bdd9334da0800000000000000
+      internalID: -5961857857251882031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_32
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 128
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9dd79a9a0d19c20800000000000000
+      internalID: 3211577436403521984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_33
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 128
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d345dccd5d5fae0800000000000000
+      internalID: -1516070555225932408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_34
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 128
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431537e37980a33b0800000000000000
+      internalID: -5532099746590404300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a32ff74fe033b40800000000000000
+      internalID: 5418691219938228737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_36
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 64
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685a0a1aeed5bdd00800000000000000
+      internalID: 998495021887956358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_37
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 64
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae038b6bdeb3a0df0800000000000000
+      internalID: -213292140187864854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_38
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 64
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e0059274408ef10800000000000000
+      internalID: 2299092313454939773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_39
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 64
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b6a7e5d311da5c0800000000000000
+      internalID: -4202683921991046283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_40
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 64
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44705e103ea3b680800000000000000
+      internalID: -8740450930105748403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_41
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 64
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3756323f76179600800000000000000
+      internalID: 474873021269956411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ad234a4a06a4130800000000000000
+      internalID: 3551757516380756632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_43
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f6f80ab7d781ae0800000000000000
+      internalID: -1578373699465154721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_44
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dad2f0e6b741ec0800000000000000
+      internalID: -3597114489730912870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_45
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb81493c3d2a25360800000000000000
+      internalID: 7156961788248201407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_46
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdd1e00b7e18ac70800000000000000
+      internalID: 8982462970435067312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Knigh_47
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 0
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bddbb3a43d510d30800000000000000
+      internalID: 4395897191956995506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
